@@ -1,0 +1,85 @@
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Calendar.exe
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Calendar.deps.json
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Calendar.runtimeconfig.json
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Calendar.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Calendar.pdb
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfo.cs
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\scopedcss\bundle\Calendar.styles.css
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.CopyComplete
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\refint\Calendar.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.pdb
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\Calendar.genruntimeconfig.cache
+C:\Users\Linton\source\repos\Calendar\Calendar\obj\Debug\net6.0\ref\Calendar.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Calendar.v3.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Nancy.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Files\tokens.json
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Linton\source\repos\Calendar\Calendar\bin\Debug\net6.0\Files\credentials.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Files\credentials.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Files\tokens.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Calendar.exe
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Calendar.deps.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Calendar.runtimeconfig.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Calendar.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Calendar.pdb
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Calendar.v3.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Nancy.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfo.cs
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\staticwebassets\msbuild.Calendar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\staticwebassets\msbuild.build.Calendar.props
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calendar.props
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calendar.props
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\scopedcss\bundle\Calendar.styles.css
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.CopyComplete
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\refint\Calendar.dll
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.pdb
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\Calendar.genruntimeconfig.cache
+C:\Users\Linton\Desktop\Google Calendar\Calendar\Calendar\obj\Debug\net6.0\ref\Calendar.dll
